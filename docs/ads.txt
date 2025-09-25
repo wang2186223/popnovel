@@ -1,4 +1,4 @@
-google.com, pub-3785399647875281, DIRECT, f08c47fec0942fa0
+google.com, pub-6892179169063217, DIRECT, f08c47fec0942fa0
 premiumads.net, 21852, DIRECT
 premiumads.com.br, 21852, DIRECT
 google.com, pub-3619045887187031, RESELLER, f08c47fec0942fa0

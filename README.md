@@ -446,7 +446,7 @@ python tools/optimize-images.py
 已集成Google AdSense和Google Analytics 4代码：
 ```html
 <!-- Google AdSense -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3785399647875281"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6892179169063217"></script>
 
 <!-- Google Analytics 4 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B6BKGBPW0W"></script>
